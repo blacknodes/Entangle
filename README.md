@@ -1,7 +1,9 @@
 # Entangle
 How To Run an Entangle Validator
 ## Setup Your server
+```
 sudo apt update && apt upgrade -y
+```
 ##  Installing git, make, jq, python, golangci-lint and solcjs.
 sudo apt install curl git jq lz4 build-essential unzip fail2ban ufw -y
 ## Install Go
