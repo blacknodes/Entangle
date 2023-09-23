@@ -48,6 +48,12 @@ entangled keys unsafe-export-eth-key <key_name>
 replace `<key_name>` with your previously set keyname and import the private key into your metamask. 
 ## Acquire NGL Tokens From Entangle Discord Faucet
 Copy your address in Metamask and Go to https://discord.com/channels/938906933732212846/1087639392753025084 to get NGL Tokens.
+![image](https://github.com/blacknodes/Entangle/assets/85839823/64fdaadc-b0ae-46b8-a751-83b44a013be9)
+Click on verify and check DM from Entangle Bot
+![image](https://github.com/blacknodes/Entangle/assets/85839823/eceb38d4-f356-4335-80cf-554eece8e5e8)
+Paste the Metamask address here
+![image](https://github.com/blacknodes/Entangle/assets/85839823/b692396e-3ee9-46c6-92e6-156afb6c3442)
+
 ## Start Your Validator
 ```
 entangled tx staking create-validator \
