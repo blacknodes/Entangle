@@ -52,7 +52,9 @@ Copy your address in Metamask and Go to https://discord.com/channels/93890693373
 Click on verify and check DM from Entangle Bot
 ![image](https://github.com/blacknodes/Entangle/assets/85839823/eceb38d4-f356-4335-80cf-554eece8e5e8)
 Paste the Metamask address here
-![image](https://github.com/blacknodes/Entangle/assets/85839823/b692396e-3ee9-46c6-92e6-156afb6c3442)
+![metamask](https://github.com/blacknodes/Entangle/assets/85839823/6a69e5d4-c3a7-4bfd-9ed7-b03d3a5c8d1a)
+
+
 
 ## Start Your Validator
 ```
