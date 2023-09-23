@@ -32,7 +32,7 @@ make install
 ```
 sh init_key.sh <key_name> <password>
 ```
-Give any name youd like to give to <key_name> and in place of <password> set your desired password. After execution save the Mnemonic.
+Give any name youd like to give to `<key_name>` and in place of `<password>` set your desired password. After execution save the Mnemonic.
 ## Download The Previous Blocks
 ```
 sh get_snapshot.sh
@@ -45,7 +45,7 @@ sh run_node.sh
 ```
 entangled keys unsafe-export-eth-key <key_name>
 ```
-replace <key_name> with your previously set keyname and import the private key into your metamask. 
+replace `<key_name>` with your previously set keyname and import the private key into your metamask. 
 ## Acquire NGL Tokens From Entangle Discord Faucet
 Copy your address in Metamask and Go to https://discord.com/channels/938906933732212846/1087639392753025084 to get NGL Tokens.
 ## Start Your Validator
@@ -63,10 +63,15 @@ entangled tx staking create-validator \
 --gas-prices="10aNGL" \
 --from=<key_name>
 ```
-moniker is the name you want to give to your validator, for example moniker="BlackNodes" , You should set your own name or something.
-Replace <keyname> with your keyname 
+moniker is the name you want to give to your `validator`, for example moniker="BlackNodes" , You should set your own name or something
+Replace `<keyname>` with your keyname 
+## Search Your Validator
+Go to https://explorer.nodexcapital.com/entangle/staking and checkout your validator
 ## Fill The Validator Form
 https://forms.gle/sSCudse9ds55rCva6
-paste the address starting wit eth***** not the one with 0x****
+paste the account address starting wit `eth*****` not the one with `0x*****`
+![accountaddress](https://github.com/blacknodes/Entangle/assets/85839823/1e3d7bf2-959f-4940-bd58-9dce0b4cf0a2)
+
 ### Congratulations You Are All set
+
 #### More information can be found here https://entangle-protocol.gitbook.io/entangle-protocol/validator-guidelines-technical
